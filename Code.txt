@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-         (code 2 +2)
-        System.out.println(21 + 60);
+
+        System.out.println(44 + 40);
     }
 }
